@@ -17,7 +17,7 @@ I have always been hard working and goal's focused with useful results.
 TECH STACK:
 
 ![IMG_9258 (Copy)](https://user-images.githubusercontent.com/64060848/106174910-2011a680-61b3-11eb-9952-4bdc54d881ba.PNG)
-![IMG_9251 (Copy)](https://user-images.githubusercontent.com/64060848/106175277-91515980-61b3-11eb-88f6-9b1c3d6d921d.PNG)
+![IMG_9251 (Copy) (Copy)](https://user-images.githubusercontent.com/64060848/106176900-7e3f8900-61b5-11eb-8943-face85a3cd46.PNG)
 ![XRFF7291 (Copy)](https://user-images.githubusercontent.com/64060848/106175618-f5741d80-61b3-11eb-9096-556db0633b8f.JPEG)  
 ![IMG_9255 (Copy)](https://user-images.githubusercontent.com/64060848/106175905-46841180-61b4-11eb-911f-2d304db71eb5.PNG)
 ![IMG_9257 (Copy)](https://user-images.githubusercontent.com/64060848/106176461-f35e8e80-61b4-11eb-836f-fd56ec5485bb.PNG)
