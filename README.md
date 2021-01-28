@@ -7,13 +7,16 @@ I have always been hard working and goal's focused with useful results.
 
 
 
+
+
+
+
 TECH STACK
 
-HTML/CSS/JS/JQUERY/SCSS/HTMLcanvas/GITHUB
+HTML/HTML5CANVAS/CSS/SCSS/JS/JQUERY/GITHUB
 
 
 MOTTO
 
 "I don't believe in age I belive in energy, Don't let age dictate what you can and cannot do"
-
 --Toa Porchon
