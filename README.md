@@ -14,18 +14,18 @@ I have always been hard working and goal's focused with useful results.
 
 
 
-TECH STACK
+TECH STACK:
 
 HTML/HTML5CANVAS/CSS/SCSS/JS/JQUERY/GITHUB
 
 
-Social Links
+Social Links:
 
 Instagram: https:www.instagram.com/arsalan_najm
 
 Facebook: https:www.facebook.com/arsalan.najm.56
 
 
-MOTTO: "I don't believe in age I belive in energy, Don't let age dictate what you can and cannot do"
-
+MOTTO:
+"I don't believe in age I belive in energy, Don't let age dictate what you can and cannot do"
 --Toa Porchon
