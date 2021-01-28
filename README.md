@@ -16,6 +16,5 @@ TECH STACK
 HTML/HTML5CANVAS/CSS/SCSS/JS/JQUERY/GITHUB
 
 
-MOTTO:
-"I don't believe in age I belive in energy, Don't let age dictate what you can and cannot do"
+MOTTO: "I don't believe in age I belive in energy, Don't let age dictate what you can and cannot do"
 --Toa Porchon
