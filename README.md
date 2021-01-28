@@ -16,7 +16,8 @@ I have always been hard working and goal's focused with useful results.
 
 TECH STACK:
 
-HTML/HTML5CANVAS/CSS/SCSS/JS/JQUERY/GITHUB
+![IMG_9258 (Copy)](https://user-images.githubusercontent.com/64060848/106174910-2011a680-61b3-11eb-9952-4bdc54d881ba.PNG)
+
 
 
 Social Links:
