@@ -14,7 +14,7 @@ I have always been hard working and goal's focused with useful results.
 
 
 
-TECH STACK:
+**TECH STACK**:
 
 ![IMG_9258 (Copy)](https://user-images.githubusercontent.com/64060848/106174910-2011a680-61b3-11eb-9952-4bdc54d881ba.PNG)
 ![IMG_9251 (Copy) (Copy) (Copy)](https://user-images.githubusercontent.com/64060848/106177539-4553e400-61b6-11eb-88b1-84c40f4da571.PNG)
@@ -28,14 +28,14 @@ TECH STACK:
 
 
 
-Social Links:
+**Social Links**:
 
 Instagram: https:www.instagram.com/arsalan_najm
 
 Facebook: https:www.facebook.com/arsalan.najm.56
 
 
-MOTTO:
+**MOTTO**:
 
 "I don't believe in age I belive in energy, Don't let age dictate what you can and cannot do"
 --Toa Porchon
