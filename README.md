@@ -22,7 +22,7 @@ I have always been hard working and goal's focused with useful results.
 ![1280px-Sass_Logo_Color svg (Copy)](https://user-images.githubusercontent.com/64060848/106178486-75e84d80-61b7-11eb-9e3d-6036f37895af.png)
 
 
-[![Arsalan's GitHub stats](https://github-readme-stats.vercel.app/api?username=Arsalan-Najm)](https://github.com/Arsalan-Najm/github-readme-stats)
+![Arsalan's GitHub stats](https://github-readme-stats.vercel.app/api?username=Arsalan-Najm&show_icons=true&theme=dark)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Arsalan-Najm&layout=compact)](https://github.com/Arsalan-Najm/github-readme-stats)
 
