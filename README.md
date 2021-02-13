@@ -12,8 +12,6 @@ I have always been hard working and goal's focused with useful results.
 
 
 
-
-
 **TECH STACK**:
 
 ![IMG_9258 (Copy)](https://user-images.githubusercontent.com/64060848/106174910-2011a680-61b3-11eb-9952-4bdc54d881ba.PNG)
@@ -24,7 +22,7 @@ I have always been hard working and goal's focused with useful results.
 ![1280px-Sass_Logo_Color svg (Copy)](https://user-images.githubusercontent.com/64060848/106178486-75e84d80-61b7-11eb-9e3d-6036f37895af.png)
 
 
-
+![Arsalan's stats](https://github-readme-stats.vercel.app/api?username=Arsalan-Najm&show_icons=true&theme=radical)
 
 
 
