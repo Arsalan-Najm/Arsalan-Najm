@@ -30,9 +30,11 @@ I have always been hard working and goal's focused with useful results.
 
 **Social Links**:
 
-Instagram: https:www.instagram.com/arsalan_najm
+[Facebook](https://www.facebook.com/arsalan.najm.56)
 
-Facebook: https:www.facebook.com/arsalan.najm.56
+[Instagram](https://www.instagram.com/arsalan_najm)
+
+
 
 
 **MOTTO**:
