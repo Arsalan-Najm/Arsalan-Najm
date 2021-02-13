@@ -24,7 +24,7 @@ I have always been hard working and goal's focused with useful results.
 
 ![Arsalan's stats](https://github-readme-stats.vercel.app/api?username=Arsalan-Najm&show_icons=true&theme=radical)
 
-
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Arsalan-Najm&layout=compact)](https://github.com/Arsalan-Najm/github-readme-stats)
 
 **Social Links**:
 
