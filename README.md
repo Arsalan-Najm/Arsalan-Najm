@@ -4,9 +4,9 @@
 
 
 
-I'm Arsalan and I'm a front end web developer, I have 2 years of experience in coding.
+I'm Arsalan and I'm a 17 years old front end web developer,
 I spend my free time designing UI and prototypes.
-I have always been hard working and goal's focused with useful results.
+I have always been hard working and goal's focused with proven results.
 
 
 
@@ -18,7 +18,6 @@ I have always been hard working and goal's focused with useful results.
 ![IMG_9251 (Copy) (Copy) (Copy)](https://user-images.githubusercontent.com/64060848/106177539-4553e400-61b6-11eb-88b1-84c40f4da571.PNG)
 ![XRFF7291 (Copy)](https://user-images.githubusercontent.com/64060848/106175618-f5741d80-61b3-11eb-9096-556db0633b8f.JPEG)  
 ![IMG_9255 (Copy)](https://user-images.githubusercontent.com/64060848/106175905-46841180-61b4-11eb-911f-2d304db71eb5.PNG)
-![IMG_9257 (Copy)](https://user-images.githubusercontent.com/64060848/106176461-f35e8e80-61b4-11eb-836f-fd56ec5485bb.PNG)
 ![1280px-Sass_Logo_Color svg (Copy)](https://user-images.githubusercontent.com/64060848/106178486-75e84d80-61b7-11eb-9e3d-6036f37895af.png)
 
 
