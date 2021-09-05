@@ -1,8 +1,7 @@
- Hi there, <a href="www.google.com">I'm Arsalan Najm</a> 😎 
-
+ <h2 align="center">Hi there, <a href="www.github.com/Arsalan-Najm">I'm Arsalan Najm</a> 😎 </h2> 
 
 <div align="center">
-   <h1>I'm a UI designer</h1>
+   <h1>UI Designer</h1>
 </div>
 
 
@@ -20,11 +19,7 @@ I have always been hard working and goal's focused with proven results.
 
 **TECH STACK**:
 
-![IMG_9258 (Copy)](https://user-images.githubusercontent.com/64060848/106174910-2011a680-61b3-11eb-9952-4bdc54d881ba.PNG)
-![IMG_9251 (Copy) (Copy) (Copy)](https://user-images.githubusercontent.com/64060848/106177539-4553e400-61b6-11eb-88b1-84c40f4da571.PNG)
-![XRFF7291 (Copy)](https://user-images.githubusercontent.com/64060848/106175618-f5741d80-61b3-11eb-9096-556db0633b8f.JPEG)  
-![IMG_9255 (Copy)](https://user-images.githubusercontent.com/64060848/106175905-46841180-61b4-11eb-911f-2d304db71eb5.PNG)
-![1280px-Sass_Logo_Color svg (Copy)](https://user-images.githubusercontent.com/64060848/106178486-75e84d80-61b7-11eb-9e3d-6036f37895af.png)
+HTML / CSS / JS / Jquery / SCSS / GITHUB
 
 
 
@@ -34,11 +29,8 @@ I have always been hard working and goal's focused with proven results.
 
 **Social Links**:
 
-Facebook: https://www.facebook.com/arsalan.najm.56
-
-Instagram: https://www.instagram.com/arsalan_najm
-
-Codepen: https://www.codepen.io/arsalan_najm
+[Facebook](facebook.com/arsalan.najm.56)---
+[Instagram ](instagram.com/arsalan_najm)--- [Codepen](codepen.io/arsalan_najm) 
 
 
 **MOTTO**:
