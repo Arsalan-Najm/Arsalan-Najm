@@ -1,10 +1,16 @@
-### Hi there 👋
+ Hi there, <a href="www.google.com">I'm Arsalan Najm</a> 😎 
+
+
+<div align="center">
+   <h1>I'm a UI designer</h1>
+</div>
+
 
 ![poster](https://user-images.githubusercontent.com/64060848/106156698-7ecd2500-619f-11eb-9701-7eafd0bc3acb.JPEG)
 
 
 
-I'm Arsalan and I'm a 17 years old front end web developer,
+I'm a 17 years old front end web developer,
 I spend my free time designing UI and prototypes.
 I have always been hard working and goal's focused with proven results.
 
