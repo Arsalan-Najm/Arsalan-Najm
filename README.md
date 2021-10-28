@@ -19,8 +19,14 @@ I have always been hard working and goal's focused with proven results.
 
 **TECH STACK**:
 
-HTML / CSS / JS / Jquery / SCSS / GITHUB
 
+<p>
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
+  <img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E" />
+  <img src="https://img.shields.io/badge/jQuery-0769AD?style=for-the-badge&logo=jquery&logoColor=white" />
+
+</p>
 
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Arsalan-Najm&layout=compact)](https://github.com/Arsalan-Najm/github-readme-stats&theme=dark)
@@ -29,8 +35,9 @@ HTML / CSS / JS / Jquery / SCSS / GITHUB
 
 **Social Links**:
 
-[Facebook](facebook.com/arsalan.najm.56)---
-[Instagram ](instagram.com/arsalan_najm)--- [Codepen](codepen.io/arsalan_najm) 
+ [<img alt="Instagram" src="https://img.shields.io/badge/Instagram-%2312100E.svg?&style=for-the-badge&logo=Instagram&logoColor=white" />](https://instagram.com/arsalan_najm)
+ [<img alt="Facebook" src="https://img.shields.io/badge/Facebook-%2312100E.svg?&style=for-the-badge&logo=Facebook&logoColor=White" />](https://www.facebook.com/arsalan.najm.56)
+[<img alt="Codepen" src="https://img.shields.io/badge/Codepen-%2312100E.svg?&style=for-the-badge&logo=Codepen&logoColor=White" />](http://www.codepen.io/arsalan_najm)
 
 
 **MOTTO**:
