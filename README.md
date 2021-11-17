@@ -39,6 +39,8 @@ I have always been hard working and goal's focused with proven results.
  [<img alt="Facebook" src="https://img.shields.io/badge/Facebook-%2312100E.svg?&style=for-the-badge&logo=Facebook&logoColor=White" />](https://www.facebook.com/arsalan.najm.56)
 [<img alt="Codepen" src="https://img.shields.io/badge/Codepen-%2312100E.svg?&style=for-the-badge&logo=Codepen&logoColor=White" />](http://www.codepen.io/arsalan_najm)
 
+[<img alt="Mail" src="https://img.shields.io/badge/Gmail-%2312100E.svg?&style=for-the-badge&logo=Gmail&logoColor=Red" />](http://www.codepen.io/arsalan_najm)
+
 
 **MOTTO**:
 
