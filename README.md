@@ -1,4 +1,4 @@
- <h2 align="center">Hi there, <a href="https://www.arsalan-najm.netlify.app">I'm Arsalan Najm</a> 🧑🏻‍💻 </h2> 
+ <h2 align="center">Hi there, <a href="https://www.github.com/Arsalan-Najm">I'm Arsalan Najm</a> 🧑🏻‍💻 </h2> 
 
 <div align="center">
    <h1>UI Designer</h1>
