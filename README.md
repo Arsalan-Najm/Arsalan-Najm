@@ -11,7 +11,7 @@
 
 I'm 17 years old front end web developer,
 I spend my free time designing UI and prototypes.
-I have always been hard working and goal's focused with proven results.
+I've been always hard working and goal's focused with proven results.
 
 
 
