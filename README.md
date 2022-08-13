@@ -37,9 +37,9 @@ I've been always hard working and goal's focused with proven results.
 
 **Social Links**:
 
- [<img alt="Linkedin" src="https://img.shields.io/badge/linkedin-%2312100E.svg?&style=for-the-badge&logo=linkedin&logoColor=darkblue" />](https://instagram.com/arsalan_najm)
+ [<img alt="Linkedin" src="https://img.shields.io/badge/linkedin-%2312100E.svg?&style=for-the-badge&logo=linkedin&logoColor=darkblue" />](https://linkedin.com/in/arsalan_najm)
  [<img alt="Instagram" src="https://img.shields.io/badge/Instagram-%2312100E.svg?&style=for-the-badge&logo=Instagram&logoColor=#833AB4" />](https://instagram.com/arsalan_najm)
- [<img alt="Facebook" src="https://img.shields.io/badge/Facebook-%2312100E.svg?&style=for-the-badge&logo=Facebook&logoColor=White" />](https://www.linkedin.com/in/arsalan_najm)
+ [<img alt="Facebook" src="https://img.shields.io/badge/Facebook-%2312100E.svg?&style=for-the-badge&logo=Facebook&logoColor=White" />](https://www.facebook.com/arsalan.najm.56)
 
 
 **MOTTO**:
