@@ -9,9 +9,8 @@
 
 
 
-I'm an 18 years old front-end developer from Afghanistan,
-I spend my free times on designing UI and prototypes.
-I've been always hard working and goal's focused with proven results.
+I'm an 18 years old self taught developer from Afghanistan, I like to keep things simple and clean.
+Making responsive designs is on my priority, creativity is something that matters for me. I've been always hard working and goal's focused with proven results
 
 
 
@@ -25,9 +24,13 @@ I've been always hard working and goal's focused with proven results.
   <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
   <img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E" />
   <img src="https://img.shields.io/badge/jQuery-0769AD?style=for-the-badge&logo=jquery&logoColor=white" />
- <img src="https://img.shields.io/badge/bootstrap-7633FA?style=for-the-badge&logo=bootstrap&logoColor=white"/>
-  <img src="https://img.shields.io/badge/tailwindcss-43AAB3?style=for-the-badge&logo=tailwindcss&logoColor=white"/>
-  <img src="https://img.shields.io/badge/react-1A2D2D?style=for-the-badge&logo=react&logoColor=white"/>
+  <img src="https://img.shields.io/badge/bootstrap-7633FA?style=for-the-badge&logo=bootstrap&logoColor=white"/>
+  <img src="https://img.shields.io/badge/tailwindcss-07ADCA?style=for-the-badge&logo=tailwindcss&logoColor=white"/>
+  <img src="https://img.shields.io/badge/react-262A31?style=for-the-badge&logo=react&logoColor=white"/>
+  <img src="https://img.shields.io/badge/node.js-77B43F?style=for-the-badge&logo=node.js&logoColor=white"/>
+  <img src="https://img.shields.io/badge/express-2F2F2F?style=for-the-badge&logo=express&logoColor=white"/>
+  <img src="https://img.shields.io/badge/git-E44D30?style=for-the-badge&logo=git&logoColor=white"/>
+  <img src="https://img.shields.io/badge/github-000000?style=for-the-badge&logo=github&logoColor=white"/>
 </p>
 
 
