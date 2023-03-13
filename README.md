@@ -1,7 +1,7 @@
  <h2 align="center">Hi There, <a href="https://www.github.com/Arsalan-Najm">I'm Arsalan Najm</a> 🧑🏻‍💻 </h2> 
 
 <div align="center">
-   <h1>Everyone has a story to tell</h1>
+   <h2>Everyone has a story to tell</h2>
 </div>
 
 
@@ -9,8 +9,7 @@
 
 
 
-I'm an 18 years old self taught developer from Afghanistan, I like to keep things simple and clean.
-Making responsive designs is on my priority, creativity is something that matters for me. I've been always hard working and goal's focused with proven results
+A self-taught and passionate front-end web developer, experienced in building and maintaining responsive websites and web-applications.I mainly focus on learning front-end languages and frameworks, making responsive designs is my priority, creativity is something that matters to me. I’ve been always hard working and goal’s focused with proven results.
 
 
 
