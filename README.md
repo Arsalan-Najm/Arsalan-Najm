@@ -1,4 +1,4 @@
-<h1 align="center">Hi There! I'm <a href="https://arsalan-najm.web.app/"><u>Arsalan Najm</u></a></h1>
+<h1 align="center">Hi There! I'm <a href="https://arsalan-najm.web.app/" target="_blank"><u>Arsalan Najm</u></a></h1>
 
 ###
 
